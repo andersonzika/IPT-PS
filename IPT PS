@@ -14,7 +14,6 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1348135130.m3u8
 #EXTINF:-1 tvg-id="123456" tvg-name="Band" tvg-logo="" group-title="Aberto",Band
 http://168.205.87.198:8555/live/solange/123456/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
-
 ------------------------------------------- Desenhos ---------------------------------------------------------------------------------------
 #EXTINF:0 group-title="Desenhos"
 #EXTINF:-1 tvg-id="cartoon" tvg-name="Cartoon Network" tvg-logo="" group-title="Desenhos",Cartoon Network
