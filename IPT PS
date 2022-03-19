@@ -47,5 +47,21 @@ https://m3u9.tk/a/hls1/tooncast.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI
 https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=484389&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDE6MzU6MzggQU0maGFzaF92YWx1ZT1IeEpWN0pvWUIzV1RHeEFTQlBZRGlnPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-id="IPTV" tvg-name="Warner" tvg-logo="" group-title="Pago",Warner
 https://live.xvideosporn.me/p2p/warnerchannel/chunks.m3u8?nimblesessionid=484453&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDE6Mzc6NTMgQU0maGFzaF92YWx1ZT1QNFNFd0pnazdkRzJZMUowNWh5c1BRPT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:-1 tvg-id="IPTV" tvg-name="Disney Channel" tvg-logo="" group-title="Pago",Disney Channel
-https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=471804&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MzQ6NTAgUE0maGFzaF92YWx1ZT1zZzR4S3AwcnlhL1dCMDc3SmJyNDZRPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-id="IPTV" tvg-name="Space" tvg-logo="" group-title="Pago",Space
+https://m3u9.ml/a2/hls1/space.m3u8?mu3zAQc9HC3GbwJq=TqBVjsDZ-W_Qzvjjjw9Bww&3U1G7qaTxrPbalZnEx=1647687904
+#EXTINF:-1 tvg-id="IPTV" tvg-name="telecine pipoca" tvg-logo="" group-title="Pago",Telecine Pipoca
+https://m3u9.tk/a/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDM6MDg6MDEgQU0maGFzaF92YWx1ZT1hVVJ5UkorUlJGRER3cFZHSUtRNFp3PT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1 tvg-id="IPTV" tvg-name="Telecine Action" tvg-logo="" group-title="Pago",Telecine Action
+https://live.xvideosporn.me/p2p/tlcaction/chunks.m3u8?nimblesessionid=487071&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDM6MDk6NTMgQU0maGFzaF92YWx1ZT1FYWR5ZTRaRUJYT3d5QU9peEhNVG13PT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-id="IPTV" tvg-name="Telecine Touch" tvg-logo="" group-title="Pago",Telecine Touch
+https://m3u9.tk/a/hls1/telecinetouch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDM6MTE6MDQgQU0maGFzaF92YWx1ZT0vdVF2Wmo3MGsvamhUWFdNNWEwY3pBPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1 tvg-id="IPTV" tvg-name="Telecine Premium" tvg-logo="" group-title="Pago",Telecine Premium
+https://live.xvideosporn.me/p2p/tlcpremium/chunks.m3u8?nimblesessionid=487102&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDM6MTE6MzYgQU0maGFzaF92YWx1ZT1aeGJ3eWhRTUZVS0UzaGhITVRoK0dnPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-id="IPTV" tvg-name="telecine fun" tvg-logo="" group-title="Pago",Telecine Fun
+https://m3u9.ml/a2/hls1/telecinefun.m3u8?mu3zAQc9HC3GbwJq=o4he2YsHHzr_ub91EpAaKA&3U1G7qaTxrPbalZnEx=1647688347
+#EXTINF:-1 tvg-id="IPTV" tvg-name="Telecine Cult" tvg-logo="" group-title="Pago",Telecine Cult
+https://m3u9.ml/a2/hls1/telecinecult.m3u8?mu3zAQc9HC3GbwJq=vgJ3NKK81CGoRPcSHZRzig&3U1G7qaTxrPbalZnEx=1647688383
+#EXTINF:-1 tvg-id="IPTV" tvg-name="" tvg-logo="" group-title="Pago",
+#EXTINF:-1 tvg-id="IPTV" tvg-name="" tvg-logo="" group-title="Pago",
+
+
