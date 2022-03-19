@@ -6,13 +6,13 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w8
 #EXTINF:-1 tvg-id="globo" tvg-name="Globo" tvg-logo="" group-title="Aberto",Globo
 https://live.xvideosporn.me/p3p/globo/p2p/globosp_720p/chunks.m3u8?nimblesessionid=484961&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDE6NTQ6MjEgQU0maGFzaF92YWx1ZT1XQk5TZURFVU5sZmwyZE9RVHNZaTJBPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-id="recordsp" tvg-name="Record-TV" tvg-logo="" group-title="Aberto",Record-TV
-https://m3u9.tk/a/hls1/recordsp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6MDg6MTkgQU0maGFzaF92YWx1ZT02VTJUOWVvOTBGNW5JcC9LSlU1YUhBPT0mdmFsaWRtaW51dGVzPTQ4MA==
+https://m3u9.tk/a/hls1/recordsp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6MTU6MzIgQU0maGFzaF92YWx1ZT0xWHJRYzhJNlBCV3lGWE1nL2l2YW5BPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 tvg-id="redetv" tvg-name="RedeTV" tvg-logo="" group-title="Aberto",RedeTV
 https://live.xvideosporn.me/p2p/redetv/chunks.m3u8?nimblesessionid=485574&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6MTA6MzUgQU0maGFzaF92YWx1ZT1Oc05Jd0VHMWNvd21kZVVkZmVnY3JRPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-id="wagner7919" tvg-name="Gazeta" tvg-logo="" group-title="Aberto",Gazeta
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1348135130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
-
+#EXTINF:-1 tvg-id="h1s1" tvg-name="Band" tvg-logo="" group-title="Aberto",Band
+https://m3u9.tk/a/hls1/band.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6MTc6MDUgQU0maGFzaF92YWx1ZT1UWCtVNXpLc0tta1Z4VytFdWZneVVnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
