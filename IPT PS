@@ -26,8 +26,8 @@ https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=486230
 https://live.xvideosporn.me/p2p/disneyxd/chunks.m3u8?nimblesessionid=486299&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6MzQ6MTMgQU0maGFzaF92YWx1ZT15aUxVZlRiTHNDQVB6enNoaU9wc3NnPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-id="tonncast" tvg-name="TonnCast" tvg-logo="" group-title="Desenhos",TonnCast
 https://m3u9.tk/a/hls1/tooncast.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6NDE6MzYgQU0maGFzaF92YWx1ZT1Vb1liV052QnVwRlh4MVJOdXFuVVFnPT0mdmFsaWRtaW51dGVzPTQ4MA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desenhos",
-
+#EXTINF:-1 tvg-id="h1s1" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
+https://m3u9.tk/a/hls1/nick-bk.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6NDI6NTIgQU0maGFzaF92YWx1ZT1WbWc0SUlrbWNQMGFkeFN6dHFGbUZ3PT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desenhos",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desenhos",
