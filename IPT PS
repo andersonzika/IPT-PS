@@ -18,7 +18,7 @@ http://168.205.87.198:8555/live/solange/123456/19.m3u8
 ------------------------------------------- Desenhos ---------------------------------------------------------------------------------------
 #EXTINF:0 group-title="Desenhos"
 #EXTINF:0 group-title="Arcane"
-#EXTINF:-1 tvg-id="IPTV" tvg-name="Cartoon Network" tvg-logo="" group-title="Arcane",Cartoon Network
+#EXTINF:-1 tvg-id="Arcane" tvg-name="Cartoon Network" tvg-logo="" group-title="Arcane",Cartoon Network
 https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8?nimblesessionid=484568&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDE6NDA6MTIgQU0maGFzaF92YWx1ZT0zdTZiZ2hVbE1uWDNPcmhQUXdXZ1R3PT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Desenhos",
