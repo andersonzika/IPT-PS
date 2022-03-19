@@ -12,7 +12,7 @@ https://live.xvideosporn.me/p2p/redetv/chunks.m3u8?nimblesessionid=485574&wmsAut
 #EXTINF:-1 tvg-id="wagner7919" tvg-name="Gazeta" tvg-logo="" group-title="Aberto",Gazeta
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1348135130.m3u8
 #EXTINF:-1 tvg-id="h1s1" tvg-name="Band" tvg-logo="" group-title="Aberto",Band
-https://m3u9.tk/a/hls1/band.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6MTc6MDUgQU0maGFzaF92YWx1ZT1UWCtVNXpLc0tta1Z4VytFdWZneVVnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+http://168.205.87.198:8555/streaming/clients_live.php?extension=m3u8&username=solange&password=123456&stream=19&type=hls&segment=19_28.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
