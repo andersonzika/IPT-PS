@@ -11,8 +11,8 @@ http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 https://live.xvideosporn.me/p2p/redetv/chunks.m3u8?nimblesessionid=485574&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDI6MTA6MzUgQU0maGFzaF92YWx1ZT1Oc05Jd0VHMWNvd21kZVVkZmVnY3JRPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-id="wagner7919" tvg-name="Gazeta" tvg-logo="" group-title="Aberto",Gazeta
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1348135130.m3u8
-#EXTINF:-1 tvg-id="h1s1" tvg-name="Band" tvg-logo="" group-title="Aberto",Band
-http://168.205.87.198:8555/streaming/clients_live.php?extension=m3u8&username=solange&password=123456&stream=19&type=hls&segment=19_28.ts
+#EXTINF:-1 tvg-id="123456" tvg-name="Band" tvg-logo="" group-title="Aberto",Band
+http://168.205.87.198:8555/live/solange/123456/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Aberto",
