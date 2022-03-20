@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="tvsd2" tvg-name="SBT" tvg-logo="" group-title="Aberto",SBT 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w875009174_b1000000.m3u8
 #EXTINF:-1 tvg-id="globo" tvg-name="Globo" tvg-logo="" group-title="Aberto",Globo
-https://m3u9.ml/a2/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=bzuHtJfIsCFM-mY19jBlKA&3U1G7qaTxrPbalZnEx=1647767046
+https://m3u9.tk/a/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIyIDE6MDI6NTAgQU0maGFzaF92YWx1ZT1HVnF3STZPU0VkOHNRMzVLSDZ2bGFnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 tvg-id="pp_sdr@377858" tvg-name="Record-TV" tvg-logo="" group-title="Aberto",Record-TV
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 #EXTINF:-1 tvg-id="redetv" tvg-name="RedeTV" tvg-logo="" group-title="Aberto",RedeTV
